@@ -10,5 +10,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.0.0",
+    "@fastify/view": "^8.0.0",
+    "handlebars": "^4.7.7"
+  }
 }

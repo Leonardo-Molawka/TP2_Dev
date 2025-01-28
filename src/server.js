@@ -1,6 +1,6 @@
 import Fastify from 'fastify';
 import handlebars from '@fastify/view';
-import path from 'path';
+import path from "path";
 import { getData } from './api.js';
 
 const fastify = Fastify({ logger: true });
